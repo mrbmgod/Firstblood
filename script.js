@@ -11,3 +11,14 @@ const persone = "Alex";
 const bool = true;
 
 console.log(something);
+
+const obj = {
+  name: 'John',
+  age: 25,
+  isMarried: false
+};
+
+console.log(obj.name);
+
+ let arr = ['plum.png', 'orange.jpeg', 'orange.bmp'];
+ console.log(arr[1]);
